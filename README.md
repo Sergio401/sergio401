@@ -1,6 +1,6 @@
 # 🫧 Welcome to my GitHub profile!
 
-<img align="right" alt="jpg" width="250px" src="https://user-images.githubusercontent.com/30879476/205474728-c93fca54-9052-4c5b-a568-b35f16dea110.jpeg" />
+<img align="right" alt="png" width="250px" src="https://user-images.githubusercontent.com/30879476/205475773-b2ed9b8c-321d-436d-9753-db9ff8c3ce53.png" />
 
 I am a **Frontend Engineer** with expertise in Javascript, React, Relay, and GraphQl. These technologies allow me to create efficient and scalable web applications with a focus on user experience.
 
