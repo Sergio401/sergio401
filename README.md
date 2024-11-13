@@ -2,7 +2,7 @@
 
 <p><img align="right" alt="png" width="250px" src="https://user-images.githubusercontent.com/30879476/205476158-fc79dd7f-eb54-4aea-8151-90c13a49cac7.png" /></p>
 
-I am a **Frontend Engineer** with expertise in Javascript, React, Relay, and GraphQl. These technologies allow me to create efficient and scalable web applications with a focus on user experience.
+I am a **Software Engineer** with expertise in Javascript, React, Relay, and GraphQl. These technologies allow me to create efficient and scalable web applications with a focus on user experience.
 
 I am currently leading a 22-person international team located in India 🇮🇳, Colombia 🇨🇴, Mexico 🇲🇽, and Peru 🇵🇪. This diverse team allows us to bring unique perspectives and approaches to our projects.
 
