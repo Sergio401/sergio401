@@ -6,10 +6,6 @@ I am a **Software Engineer** with expertise in Javascript, React, Relay, and Gra
 
 I am currently leading a 22-person international team located in India 🇮🇳, Colombia 🇨🇴, Mexico 🇲🇽, and Peru 🇵🇪. This diverse team allows us to bring unique perspectives and approaches to our projects.
 
-I was introduced to the concept of a Frontend Engineer by Guillermo Rauch and I am consider that my profession can be defined with these words.
-
-I am very interested in new AI technologies such as Stable diffusion, Dalle 2, and GPT3. Currently, I am playing with these technologies and am eager to continue exploring their capabilities.
-
 Thank you for visiting my profile. I hope to collaborate and share knowledge with the community.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergio401&label=Profile%20views&color=0e75b6&style=flat" alt="sergio401" /> <a href="https://twitter.com/sergio_402" target="blank"> </p>
